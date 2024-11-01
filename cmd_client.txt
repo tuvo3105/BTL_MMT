@@ -1,0 +1,2 @@
+python3 client.py -H 127.0.0.1 -P 9009 --peer-srv-host 127.0.0.1 --peer-srv-port 45661 --default-dest folder_1
+python3 client.py -H 127.0.0.1 -P 9009 --peer-srv-host 127.0.0.1 --peer-srv-port 45662 --default-dest folder_2
